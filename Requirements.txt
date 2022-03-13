@@ -14,5 +14,7 @@ Images.
 Dark Mode.
 Video Calls.
 
-
+Payment Option.
+Send Money.
+Receive Money.
 

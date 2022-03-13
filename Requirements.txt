@@ -11,6 +11,8 @@ Colors.
 Type Option.
 Images.
 
+Dark Mode.
+Video Calls.
 
 
 
